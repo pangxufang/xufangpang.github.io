@@ -1,23 +1,24 @@
 # academic-homepage
 
-[![Preview](assets/images/etc/preview.png)](https://luost26.github.io/academic-homepage/)
+[!\[Preview](assets/images/etc/preview.png)](https://luost26.github.io/academic-homepage/)
 
-[![pages-build-deployment](https://github.com/luost26/academic-homepage/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/luost26/academic-homepage/actions/workflows/pages/pages-build-deployment)
-[![Hits](https://hits.sh/github.com/luost26/academic-homepage.svg?view=today-total)](https://hits.sh/github.com/luost26/academic-homepage/)
-[![GitHub stars](https://img.shields.io/github/stars/luost26/academic-homepage)](https://github.com/luost26/academic-homepage)
-[![GitHub forks](https://img.shields.io/github/forks/luost26/academic-homepage)](https://github.com/luost26/academic-homepage/forks)
-<!--[![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fluost26.github.io%2Facademic-homepage)](https://validator.nu/?doc=https%3A%2F%2Fluost26.github.io%2Facademic-homepage)-->
+[!\[pages-build-deployment](https://github.com/luost26/academic-homepage/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/luost26/academic-homepage/actions/workflows/pages/pages-build-deployment)
+[!\[Hits](https://hits.sh/github.com/luost26/academic-homepage.svg?view=today-total)](https://hits.sh/github.com/luost26/academic-homepage/)
+[!\[GitHub stars](https://img.shields.io/github/stars/luost26/academic-homepage)](https://github.com/luost26/academic-homepage)
+[!\[GitHub forks](https://img.shields.io/github/forks/luost26/academic-homepage)](https://github.com/luost26/academic-homepage/forks)
 
-A GitHub Pages (Jekyll) template for personal academic website. Click [here](https://luost26.github.io/academic-homepage/) to see the demo.
+<!--\\\[!\\\[W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fluost26.github.io%2Facademic-homepage)](https://validator.nu/?doc=https%3A%2F%2Fluost26.github.io%2Facademic-homepage)-->
+
+A GitHub Pages (Jekyll) template for personal academic website. Click [here](https://xufangpang.github.io/academic-homepage/) to see the demo.
 
 ## Variants
 
 Explore alternative visual styles in their own repositories.
 
-| Variant | Style | Preview | Links |
-| --- | --- | --- | --- |
-| Frutiger Aero | Vista-inspired frosted glass, glossy icons, and nature imagery. | <img src="assets/images/variants/frutiger-aero.jpg" alt="Frutiger Aero homepage screenshot" width="320"> | [Repository](https://github.com/luost26/academic-homepage-frutiger-aero) · [Live demo](https://luost26.github.io/academic-homepage-frutiger-aero/) |
-| Nostalgia 1990s | Windows 95/98-style silver bevels, native classic icons, and pixel-grid typography. | <img src="assets/images/variants/nostalgia-1990s.jpg" alt="Nostalgia 1990s homepage screenshot" width="320"> | [Repository](https://github.com/luost26/academic-homepage-nostalgia-1990s) · [Live demo](https://luost26.github.io/academic-homepage-nostalgia-1990s/) |
+|Variant|Style|Preview|Links|
+|-|-|-|-|
+|Frutiger Aero|Vista-inspired frosted glass, glossy icons, and nature imagery.|<img src="assets/images/variants/frutiger-aero.jpg" alt="Frutiger Aero homepage screenshot" width="320">|[Repository](https://github.com/luost26/academic-homepage-frutiger-aero) · [Live demo](https://luost26.github.io/academic-homepage-frutiger-aero/)|
+|Nostalgia 1990s|Windows 95/98-style silver bevels, native classic icons, and pixel-grid typography.|<img src="assets/images/variants/nostalgia-1990s.jpg" alt="Nostalgia 1990s homepage screenshot" width="320">|[Repository](https://github.com/luost26/academic-homepage-nostalgia-1990s) · [Live demo](https://luost26.github.io/academic-homepage-nostalgia-1990s/)|
 
 ## User Community
 
@@ -56,10 +57,11 @@ Explore alternative visual styles in their own repositories.
 ### Acknowledgements
 
 The improvements of this template have been inspired by the customizations and feedbacks from the following users:
-- 😼 [onethousandwu.com](https://onethousandwu.com/): increased corner radius [[Repo]](https://github.com/oneThousand1000/oneThousand1000.github.io)
-- :star: [shiwonkim.github.io](https://shiwonkim.github.io/): two-column main page layout [[Repo]](https://github.com/shiwonkim/shiwonkim.github.io)
-- :star: [yqxie99.github.io](https://yqxie99.github.io/): blog feature [[Repo]](https://github.com/YQXie99/YQXie99.github.io/tree/feat/add_blog_page)
-- :star: [kwen-chen.github.io](https://kwen-chen.github.io/): blog feature [[Repo]](https://github.com/Kwen-Chen/Kwen-Chen.github.io)
+
+* 😼 [onethousandwu.com](https://onethousandwu.com/): increased corner radius \[\[Repo]](https://github.com/oneThousand1000/oneThousand1000.github.io)
+* :star: [shiwonkim.github.io](https://shiwonkim.github.io/): two-column main page layout \[\[Repo]](https://github.com/shiwonkim/shiwonkim.github.io)
+* :star: [yqxie99.github.io](https://yqxie99.github.io/): blog feature \[\[Repo]](https://github.com/YQXie99/YQXie99.github.io/tree/feat/add\_blog\_page)
+* :star: [kwen-chen.github.io](https://kwen-chen.github.io/): blog feature \[\[Repo]](https://github.com/Kwen-Chen/Kwen-Chen.github.io)
 
 ## Need Help?
 
@@ -67,32 +69,31 @@ If you run into **any** issues while using this template, or have suggestions fo
 
 ### FAQs
 
-- [Need blogging feature?](https://github.com/luost26/academic-homepage/issues/13#issuecomment-2646371324)
-- [How to show citation count for papers?](https://github.com/luost26/academic-homepage/issues/29#issuecomment-3222496187)
+* [Need blogging feature?](https://github.com/luost26/academic-homepage/issues/13#issuecomment-2646371324)
+* [How to show citation count for papers?](https://github.com/luost26/academic-homepage/issues/29#issuecomment-3222496187)
+
 
 
 ## Getting Started
 
 1. First, click the "Use this template" button to create a new repository. The name of the repository should be `<your-github-username>.github.io` (click [here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites) to learn more about naming a GitHub Pages repository).
 
-### Running Locally (Debug & Preview)
+### Running Locally (Debug \& Preview)
 
 2. Follow the **step 1** and **step 2** of the instruction [here](https://jekyllrb.com/docs/) to install prerequisites and jekyll.
-
 3. Clone your forked repository to your local machine.
-
 4. Run the following command in the root directory of the repository:
 
-   ```bash
+```bash
    bundle exec jekyll serve
    ```
 
 5. Browse to the displayed URL to see the website.
 
 
+
 ### Deploying to GitHub Pages
 
 2. Go to the repository settings and enable GitHub Pages. Detailed instructions can be found [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site).
-
 3. Navigate to your created website, and follow the instructions displayed on the homepage (if any) to finalize the setup.
 
